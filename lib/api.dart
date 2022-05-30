@@ -1,0 +1,1 @@
+var appurl = "http://192.168.200.197/testyy/API/";
